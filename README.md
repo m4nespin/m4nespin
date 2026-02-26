@@ -2,7 +2,7 @@
 
 ## 🔗 Contact
 
-[![linkedin](https://img.shields.io/badge/emmanuel&#x2010;ec-linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=010409)](https://www.linkedin.com/in/emmanuel-ec/)
+[![linkedin](https://img.shields.io/badge/m4nespin-linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=010409)](www.linkedin.com/in/m4nespin)
 [![Email](https://img.shields.io/badge/m4nucodes@pm.me-email-7a5aff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=010409)](mailto:m4nucodes@pm.me)
 
 ## 🚀 About me
